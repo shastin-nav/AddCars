@@ -1,5 +1,7 @@
 # AddCars
 
+Proyecto universitario simple del ramo Programación Avanzada.
+
 Programa de escritorio en Java para arrendar vehículos. Permite ver los autos disponibles, filtrarlos, revisar el detalle de cada uno, modificarlos y llevar los contratos.
 
 Lo hicimos con Java Swing y MySQL, y el código sigue el patrón MVC (Modelo, Vista, Controlador).
