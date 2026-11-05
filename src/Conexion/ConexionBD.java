@@ -24,7 +24,7 @@ public class ConexionBD {
         } catch (SQLException e) {
              JOptionPane.showMessageDialog(null,
                 "Error al conectar con la base de datos: " + e.getMessage() +
-                "\nVerifique que XAMPP (o su servidor MySQL) esté encendido y la base de datos 'acar' exista.",
+                "\nVerifique que XAMPP (o su servidor MySQL) esté encendido y la base de datos 'addcars' exista.",
                 "Error de Conexión", JOptionPane.ERROR_MESSAGE); //error conexion
         }
         return conexion; //retorna conexion o null
